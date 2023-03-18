@@ -75,7 +75,7 @@ A web server with an API is already in place to allow you to get the required in
   }
 }
 ```
-- power_levels : Represents the current charge of the batteries inside the city in percentage. Type `Integer`
+- power_levels : Represents the current charge of the batteries inside the city in percentage. Type `Float`
 
 ### News
 
