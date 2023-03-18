@@ -154,7 +154,7 @@ L'application doit être créée avec **.NET MAUI**
 
 - Connectez-vous et obtenez les données de l'API (50 points)
 - Créer une structure efficace et simple pour utiliser les données reçues de l'API (50 points)
-- 
+
 ### Visuels
 
 - Développer une structure visuelle organisée et facilitant la compréhension de l'information (400 points)
